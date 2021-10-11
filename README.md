@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://github.com/NV404/nv404/blob/main/img/tenor.gif?raw=true" width=100>
-  <br><br>
-  <samp>
+  <code>
     I'm Naman currently a CSE student and aspiring software developer:computer:. Interested in working on backend, API's, Security.
-  </samp>
+  </code>
 </p>
 
 <div align="center">
