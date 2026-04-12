@@ -8,6 +8,7 @@
 *somehow things still ship. don't ask how.*
 
 [![Twitter](https://img.shields.io/badge/-%40gitrevert-black?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gitrevert)
+[![Website](https://img.shields.io/badge/heyNaman.dev-black?style=flat-square&logo=google-chrome&logoColor=white)](https://heyNaman.dev)
 
 </div>
 
