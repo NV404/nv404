@@ -30,7 +30,7 @@ const naman = {
 
 #### `> things keeping me up at night`
 
-- 🔥 building **Gonex**
+- 🔥 building **[Gova](https://github.com/NV404/gova)**
 - 🦀 learning
 - 💀 debugging code i wrote 6 months ago with zero comments
 
